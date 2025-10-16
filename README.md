@@ -66,7 +66,7 @@ Python Ejemplo 1/
 
 2. Ejecuta el script:
    ```bash
-   python Tarea_5/src/prediccion_casas.py
+   python Python Ejemplo 1/src/prediccion_casas.py
    ```
 
 ## Análisis de Resultados
