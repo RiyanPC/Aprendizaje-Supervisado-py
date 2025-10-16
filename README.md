@@ -48,7 +48,7 @@ El objetivo es demostrar las etapas fundamentales del aprendizaje supervisado ap
 ## Estructura del Proyecto
 
 ```
-Tarea_5/
+Python Ejemplo 1/
 ├── docs/
 │   └── analisis.md          # Análisis detallado del proyecto
 ├── results/
