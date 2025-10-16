@@ -48,7 +48,7 @@ El objetivo es demostrar las etapas fundamentales del aprendizaje supervisado ap
 ## Estructura del Proyecto
 
 ```
-Tarea_5/
+Python Ejemplo 1/
 ├── docs/
 │   └── analisis.md          # Análisis detallado del proyecto
 ├── results/
@@ -66,7 +66,7 @@ Tarea_5/
 
 2. Ejecuta el script:
    ```bash
-   python Tarea_5/src/prediccion_casas.py
+   python Python Ejemplo 1/src/prediccion_casas.py
    ```
 
 ## Análisis de Resultados
