@@ -1,0 +1,1 @@
+Aqui se generará las imágenes del resultado
