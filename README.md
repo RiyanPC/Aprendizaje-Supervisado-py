@@ -43,7 +43,7 @@ El objetivo es demostrar las etapas fundamentales del aprendizaje supervisado ap
 
 ### 5. Visualizar Resultados
 - Gráfico de barras comparando valores reales vs predichos (muestra de 12 ejemplos)
-- Guardado en `Tarea_5/results/grafico_comparacion.png`
+- Guardado en `Python Ejemplo 1/results/grafico_comparacion.png`
 
 ## Estructura del Proyecto
 
