@@ -70,5 +70,5 @@ ax.set_xticklabels([f'M{i+1}' for i in range(sample_size)])
 ax.legend()
 
 plt.tight_layout()
-plt.savefig('Tarea_5/results/grafico_comparacion.png')  # Guardamos el gráfico
+plt.savefig('Python Ejemplo 1/results/grafico_comparacion.png')  # Guardamos el gráfico
 plt.show()
